@@ -3,7 +3,6 @@
 🎓 Software Engineering Student at **Sindh Madressatul Islam University**  
 🧠 Currently learning Web & App Development at **Saylani Mass IT Training**  
 💻 Passionate about building clean, modern, and impactful digital experiences  
-🌙 Nyctophile | 🎵 Music lover | 🇵🇰 Tech dreamer
 
 ---
 
@@ -25,4 +24,4 @@
 
 ### 📫 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mirza-ibtisam-23a50b26b/)
-[![Email](https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![Email](https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ibtisammughal559@gmail.com)
